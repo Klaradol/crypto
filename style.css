@@ -1,0 +1,23 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.crypto-item {
+    border: 1px solid  #ff007b ;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.crypto-item h2 {
+    margin-top: 0;
+}
+
+.crypto-item p {
+    margin-bottom: 5px;
+}
+body{
+
+background-color: #ff007b35;
+}
